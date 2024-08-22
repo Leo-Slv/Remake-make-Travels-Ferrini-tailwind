@@ -14,7 +14,11 @@
   <div class=" h-96 rounded-lg bg-[url(https://images.unsplash.com/photo-1613545325278-f24b0cae1224?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80)] bg-cover bg-center bg-no-repeat">
   </div>
   </div>
-  <div class="rounded-lg bg-gray-200"></div>
+  <div class="rounded-lg ">
+  <?php 
+  require_once 'carousel-compra.php';
+?>
+  </div>
   </div>
       <div class="grid grid-cols-1 gap-4 lg:grid-cols-4 lg:gap-8 m-10">
   <div class="h-32 rounded-lg bg-gray-200"></div>
@@ -94,6 +98,10 @@
   
       <?php 
   require_once 'footer.php';
+?>
+
+<?php 
+  require_once 'script.php';
 ?>
 </body>
 </html>
