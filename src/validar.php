@@ -72,7 +72,7 @@
           </div>
         </div>
         <div class="bg-gray-50 px-4 py-3 sm:flex sm:flex justify-center sm:px-6">
-          <button type="button" class="inline-flex w-full justify-center rounded-md bg-emerald-600 px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-emerald-500 sm:ml-3 sm:w-auto" onclick="redirecionar()">OK</button>
+          <button type="button" class="inline-flex w-full justify-center rounded-md bg-gray-500 px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-emerald-500 sm:ml-3 sm:w-auto" onclick="redirecionar()">OK</button>
         </div>
       </div>
     </div>
