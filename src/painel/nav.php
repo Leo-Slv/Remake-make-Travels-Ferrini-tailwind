@@ -5,10 +5,10 @@
     -->
 
     <!-- Base - Right -->
-<div class= "flex justify-center gap-4 mt-4">
+<div class= "flex justify-center gap-4 mt-4 p-4">
     <a
       class="group relative inline-flex items-center overflow-hidden rounded bg-indigo-600 px-8 py-3 text-white focus:outline-none focus:ring active:bg-indigo-500"
-      href="#"
+      href="carousel.php"
     >
       <span class="absolute -start-full transition-all group-hover:start-4">
         <svg
@@ -27,13 +27,13 @@
         </svg>
       </span>
 
-      <span class="text-sm font-medium transition-all group-hover:ms-4"> Download </span>
+      <span class="text-sm font-medium transition-all group-hover:ms-4"> Carousel </span>
     </a>
 
     <!-- Border - Right -->
 
     <a
-      class="group relative inline-flex items-center overflow-hidden rounded border border-current px-8 py-3 text-indigo-600 focus:outline-none focus:ring active:text-indigo-500"
+       class="group relative inline-flex items-center overflow-hidden rounded bg-indigo-600 px-8 py-3 text-white focus:outline-none focus:ring active:bg-indigo-500"
       href="#"
     >
       <span class="absolute -start-full transition-all group-hover:start-4">
@@ -53,7 +53,7 @@
         </svg>
       </span>
 
-      <span class="text-sm font-medium transition-all group-hover:ms-4"> Download </span>
+      <span class="text-sm font-medium transition-all group-hover:ms-4"> Pacotes </span>
     </a>
 
     <!-- Base - Left -->
@@ -79,14 +79,14 @@
         </svg>
       </span>
 
-      <span class="text-sm font-medium transition-all group-hover:me-4"> Download </span>
+      <span class="text-sm font-medium transition-all group-hover:me-4"> Serviços </span>
     </a>
 
     <!-- Border - Left -->
 
     <a
-      class="group relative inline-flex items-center overflow-hidden rounded border border-current px-8 py-3 text-indigo-600 focus:outline-none focus:ring active:text-indigo-500"
-      href="#"
+      c class="group relative inline-flex items-center overflow-hidden rounded bg-rose-600 px-8 py-3 text-white focus:outline-none   active:bg-rose-500"
+      href="logout.php"
     >
       <span class="absolute -end-full transition-all group-hover:end-4">
         <svg
@@ -105,6 +105,6 @@
         </svg>
       </span>
 
-      <span class="text-sm font-medium transition-all group-hover:me-4"> Download </span>
+      <span class="text-sm font-medium transition-all group-hover:me-4"> Sair </span>
     </a>
 </div>
