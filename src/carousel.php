@@ -10,7 +10,7 @@
 <div class="hide">
     <div id="default-carousel" class="relative w-full" data-carousel="slide">
         <!-- Carousel wrapper -->
-        <div class="relative h-80-vh overflow-hidden">
+        <div class="relative h-60-vh overflow-hidden">
             <!-- Item 1 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
                 <img src="https://i.natgeofe.com/n/75f2a750-9044-41c2-8f61-ccf1ec8710aa/waikki-beach-honolulu-hawaii.jpg" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
